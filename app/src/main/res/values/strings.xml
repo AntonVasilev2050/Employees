@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="all_specialties_list">Список всех работников</string>
+    <string name="manager_list">Список менеджеров</string>
+    <string name="developer_list">Список разработчиков</string>
+    <string name="employee_card">Карточка работника</string>
+    <string name="name_label">Имя:</string>
+    <string name="last_name_label">Фамилия:</string>
+    <string name="birth_date_label">Дата рождения:</string>
+    <string name="age_label">Возраст:</string>
+    <string name="specialty_label">Специальность:</string>
+    <string name="no_data_message">нет данных</string>
+    <string name="specialty_list_label">Список специальностей</string>
+    <string name="employee_picture">Фото работника</string>
+
+    <string-array name="specialties">
+        <item>Менеджер</item>
+        <item>Разработчик</item>
+        <item>Показать всех</item>
+    </string-array>
+</resources>
